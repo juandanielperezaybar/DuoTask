@@ -1,4 +1,4 @@
-# DuoTASK
+# DuoTask
 
 ## Descripción del Proyecto
 DuoTASK es una aplicación móvil diseñada para la gestión y organización de tareas de manera individual o colaborativa. Permite a los usuarios crear, editar y administrar actividades para mejorar su productividad.
